@@ -75,7 +75,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="DaniyalJavadia.pdf"
+                href="/assets/pdf/DaniyalJavadia.pdf"
                 download
                 data-aos="fade-up"
                 data-aos-delay="900"
