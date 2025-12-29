@@ -74,16 +74,21 @@ $(document).ready(function(){
     });
 });
 /* Download CV */
-document.getElementById('download-cv').addEventListener('click', function() {
-    // CV ka path yahan set karein
-    const cvUrl = 'DaniyalJavadia.pdf';
+const downloadCV = () => {
+  const link = document.createElement("a");
+  link.href = "/assets/pdf/DaniyalJavadia.pdf";
+  link.download = "DaniyalJavadia.pdf";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+};
 
-    const link = document.createElement('a');
-    link.href = cvUrl;
-    link.download = 'DaniyalJavadia.pdf'; 
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-});
+export default function App() {
+  return (
+    <button onClick={downloadCV}>
+      Download CV
+    </button>
+  );
+}   
 
 
