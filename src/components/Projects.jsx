@@ -357,8 +357,7 @@ function Projects() {
           </div>
           <div className="description-container">
             <p className="description">
-              A responsive gallery-style website displaying nail art designs,
-              optimized for all devices.
+            A responsive gallery-style website designed to showcase a variety of nail art designs in an attractive and organized layout. The website is optimized for all devices, ensuring smooth performance and a visually appealing user experience across mobile, tablet, and desktop screens.
             </p>
           </div>
           <div className="banner-container video-card">
@@ -412,8 +411,7 @@ function Projects() {
           </div>
           <div className="description-container">
             <p className="description">
-              An Angular counter app with increment, decrement, and reset
-              features using two-way data binding.
+             A dynamic counter application built with Angular, featuring increment, decrement, and reset functionalities. The app demonstrates two-way data binding for real-time updates and interactive user experience, making it a simple yet effective example of Angular's core features and component-based architecture.
             </p>
           </div>
           <div className="banner-container video-card">
@@ -674,9 +672,7 @@ function Projects() {
           </div>
           <div className="description-container">
             <p className="description">
-              A static website for a security service provider showcasing
-              various services, contact form, and company information, developed
-              using HTML, CSS, and Bootstrap 5.
+              A responsive static website for a security service provider, built using HTML, CSS, and Bootstrap 5. It showcases security services, company information, and includes a user-friendly contact form, with a modern and mobile-first design.
             </p>
           </div>
           <div className="banner-container">
@@ -725,9 +721,7 @@ function Projects() {
           </div>
           <div className="description-container">
             <p className="description">
-              A React app built with Vite that fetches movie listings from a
-              Movie API. Features include a search function, dark mode, and
-              light mode toggle for a better user experience.
+           A fast React app built with Vite that fetches movie data from a Movie API. It includes a movie search feature along with dark and light mode toggles for an improved user experience. The app is fully responsive and easy to use.
             </p>
           </div>
           <div className="banner-container video-card">
@@ -883,8 +877,7 @@ function Projects() {
           </div>
           <div className="description-container">
             <p className="description">
-              A responsive portfolio showcasing skills and projects with clean,
-              interactive UI design.
+            A sleek, responsive portfolio that showcases your skills and projects with a clean, interactive design. It adapts seamlessly across devices, offering a smooth user experience. The UI is intuitive, ensuring easy navigation and highlighting your work in a professional, engaging way.
             </p>
           </div>
           <div className="banner-container">
