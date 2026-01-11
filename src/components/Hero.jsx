@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   const handleDownloadCV = () => {
-    const fileUrl = "/pdf/daniyaljavadia.pdf";
+    const fileUrl = "/pdf/DaniyalJavadia.pdf";
 
     const link = document.createElement("a");
     link.href = fileUrl;
