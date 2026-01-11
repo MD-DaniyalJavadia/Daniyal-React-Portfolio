@@ -7,7 +7,7 @@ function Footer() {
     <footer id="footer">
         <div class="container">
             <p class="text-center copyright-text">
-                Copyright © Daniyal Javadia. All Rights Reserved 2025
+                Copyright © Daniyal Javadia. All Rights Reserved 2026
 
             </p>
         </div>

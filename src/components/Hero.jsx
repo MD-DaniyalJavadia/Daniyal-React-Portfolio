@@ -1,6 +1,17 @@
 import React from "react";
 
 const Hero = () => {
+  const handleDownloadCV = () => {
+    const fileUrl = "/pdf/daniyaljavadia.pdf";
+
+    const link = document.createElement("a");
+    link.href = fileUrl;
+    link.download = "DaniyalJavadia.pdf";
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
   return (
     <section id="hero">
       <div className="container">
@@ -74,15 +85,14 @@ const Hero = () => {
                 <i className="bi bi-envelope"></i> Contact Me
               </a>
 
-              <a
-                href="DaniyalJavadia.pdf"
-                download
+              <button
+                onClick={handleDownloadCV}
                 data-aos="fade-up"
                 data-aos-delay="900"
                 className="btn btn-success"
               >
                 <i className="bi bi-download"></i> Download CV
-              </a>
+              </button>
             </div>
           </div>
         </div>
