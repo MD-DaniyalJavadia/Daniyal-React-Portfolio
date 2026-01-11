@@ -85,14 +85,15 @@ const Hero = () => {
                 <i className="bi bi-envelope"></i> Contact Me
               </a>
 
-              <button
-                onClick={handleDownloadCV}
-                data-aos="fade-up"
-                data-aos-delay="900"
-                className="btn btn-success"
-              >
-                <i className="bi bi-download"></i> Download CV
-              </button>
+            <a
+  href="/assets/pdf/DaniyalJavadia.pdf"
+  download="DaniyalJavadia.pdf"
+  className="btn btn-success"
+  data-aos="fade-up"
+  data-aos-delay="900"
+>
+  <i className="bi bi-download"></i> Download CV
+</a>
             </div>
           </div>
         </div>
