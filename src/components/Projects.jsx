@@ -122,7 +122,7 @@ const projects = [
     type: "coming", // or "private" if you want to distinguish it
   },
   {
-    title: "Portfolio (New)",
+    title: "Portfolio",
     stack: "HTML | CSS | JavaScript",
     desc: "Modern responsive portfolio with clean and interactive design.",
     image: "assets/images/projects/daniportfolio.png",
@@ -130,11 +130,26 @@ const projects = [
     type: "visit",
   },
   {
+    title: "Dynamic DataTable with Load More & Filters",
+    stack: "JavaScript | jQuery | DataTables | Bootstrap | C# ASP.NET | SQL Server",
+    desc: "DataTable utility with server-side processing, filter badges, multi-level grouping, and Load More functionality.",
+    image: "assets/images/projects/ReportFilterGroup.png",
+    type: "coming"
+  },
+  {
     title: "MERN Authentication System",
     stack: "MongoDB | Express | React | Node.js",
     desc: "Complete authentication system with registration, login, logout and JWT.",
     image: "assets/images/projects/Mern.png",
     type: "coming",
+  },
+  {
+    title: "Dynamic Reporting Engine",
+    stack: "ASP.NET Core | SQL Server",
+   desc: "Flexible reporting API with dynamic stored procedure execution, JSON parameters, server-side pagination & filtering, integrated with DataTables.",
+    image: "assets/images/projects/Dynamic Reporting Engine.png",
+    type: "coming", 
+    tags: ["API Development", "Reporting", "SQL", "DataTables", "Performance Optimization"]
   },
   {
     title: "MERN Fitness Tracker",
