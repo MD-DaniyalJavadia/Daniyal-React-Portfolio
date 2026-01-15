@@ -99,6 +99,15 @@ const projects = [
     type: "github",
   },
   {
+    title: "Flutter Authentication UI",
+    stack: "Flutter | Dart",
+    desc: "A Flutter-based UI project featuring a Splash Screen along with professionally designed Sign In and Sign Up pages. Focused on clean layouts, responsive design, and smooth screen navigation.",
+    image: "assets/images/projects/FlutterAuthentication.png",
+    link: "https://github.com/MD-DaniyalJavadia/FlutterApp",
+    type: "github",
+  },
+  
+  {
     title: "Guarder Guard Service",
     stack: "HTML | CSS | Bootstrap 5",
     desc: "Static website for security service provider with services and contact information.",
