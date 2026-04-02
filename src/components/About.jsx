@@ -102,22 +102,42 @@ function About() {
                                 </div>
 
                                 {/* Experience Tab */}
-                                <div className="tab-pane fade" id="tab-experience" role="tabpanel"
-                                    aria-labelledby="tab-experience-btn">
+                               <div
+                                    className="tab-pane fade"
+                                    id="tab-experience"
+                                    role="tabpanel"
+                                    aria-labelledby="tab-experience-btn"
+                                >
                                     <h4>Experience</h4>
                                     <ul>
                                         <li>
-                                            <strong>.NET Core Developer</strong><br />
-                                            TechnoCom Development<br />
-                                            <em>October 2024 - Present</em><br />
-                                            Currently working as a .NET Developer, contributing to the enhancement and
-                                            maintenance of cloud-based software applications. Collaborating closely with senior
-                                            developers to implement updates and optimize functionality and performance. Working
-                                            with emerging technologies to ensure applications remain innovative and up-to-date.
-                                            Actively involved in new projects, helping bring fresh ideas to life while ensuring
-                                            high standards of quality and reliability.
+                                            <strong>Software Engineer (.NET)</strong><br />
+                                            PayPro Private Limited<br />
+                                            <em>April 2026 - Present</em><br />
+
+                                            <ul>
+                                                <li>Design, develop, and maintain scalable web applications using ASP.NET MVC and .NET Core.</li>
+                                                <li>Write and optimize complex SQL Server queries and stored procedures.</li>
+                                                <li>Integrate third-party APIs and services using REST and SOAP.</li>
+                                                <li>Troubleshoot, debug, and enhance existing systems to improve performance.</li>
+                                                <li>Collaborate with cross-functional teams to deliver high-quality software solutions.</li>
+                                                <li>Develop frontend features using HTML, CSS, JavaScript, jQuery, and AJAX.</li>
+                                                <li>Ensure applications follow best practices for reliability, security, and scalability.</li>
+                                            </ul>
                                         </li>
 
+                                        <li>
+                                            <strong>.NET Core Developer</strong><br />
+                                            TechnoCom Development<br />
+                                            <em>October 2024 - March 2026</em><br />
+
+                                            <ul>
+                                                <li>Maintained and enhanced cloud-based software applications.</li>
+                                                <li>Worked closely with senior developers to implement new features.</li>
+                                                <li>Optimized application performance and resolved technical issues.</li>
+                                                <li>Participated in development and testing of new modules.</li>
+                                            </ul>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
