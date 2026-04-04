@@ -111,14 +111,14 @@ function About() {
                                     <h4>Experience</h4>
                                     <ul>
                                         <li>
-                                            <strong>Software Engineer (.NET)</strong><br />
+                                            <strong>Software Engineer</strong><br />
                                             PayPro Private Limited<br />
                                             <em>April 2026 - Present</em><br />
 
                                             <ul>
                                                 <li>Design, develop, and maintain scalable web applications using ASP.NET MVC and .NET Core.</li>
                                                 <li>Write and optimize complex SQL Server queries and stored procedures.</li>
-                                                <li>Integrate third-party APIs and services using REST and SOAP.</li>
+                                                <li>Integrate third-party APIs and services using REST Api.</li>
                                                 <li>Troubleshoot, debug, and enhance existing systems to improve performance.</li>
                                                 <li>Collaborate with cross-functional teams to deliver high-quality software solutions.</li>
                                                 <li>Develop frontend features using HTML, CSS, JavaScript, jQuery, and AJAX.</li>
