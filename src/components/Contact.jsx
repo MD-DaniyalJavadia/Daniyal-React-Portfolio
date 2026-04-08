@@ -13,7 +13,7 @@ function Contact() {
           <div className="row justify-content-center" data-aos="fade-down" data-aos-delay="500">
             <div className="col-lg-8">
               <div className="contact-form">
-              <form action="https://formsubmit.co/daniyaljavadiaworks@gmail.com method="POST">
+             <form action="https://formsubmit.co/daniyaljavadiaworks@gmail.com" method="POST">
                   <div className="row g-2">
                     <div className="col-md-6">
                       <div className="form-group">
