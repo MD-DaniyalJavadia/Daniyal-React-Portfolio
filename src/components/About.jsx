@@ -84,25 +84,26 @@ function About() {
                                     <h4>Education</h4>
                                     <ul>
                                         <li>
-                                            <strong>2023-2026</strong><br />
-                                            ADSE (Software Engineering) Diploma<br />
-                                            Aptech Computer Education, Garden, Karachi (In-Progress)
+                                            <strong>2023 – 2026</strong><br />
+                                            <strong>(ADSE) Advance Diploma in Software Engineering</strong><br />
+                                            Aptech Computer Education, Garden, Karachi<br />
                                         </li>
                                         <li>
                                             <strong>2023</strong><br />
-                                            Intermediate in Commerce<br />
+                                            <strong>Intermediate in Commerce</strong><br />
                                             Government College of Commerce & Economics, Karachi
                                         </li>
                                         <li>
                                             <strong>2021</strong><br />
-                                            Matriculation in Computer Science<br />
+                                            <strong>Matriculation in Computer Science</strong><br />
                                             The Smart School, Garden West Campus, Karachi
                                         </li>
                                     </ul>
+
                                 </div>
 
                                 {/* Experience Tab */}
-                               <div
+                                <div
                                     className="tab-pane fade"
                                     id="tab-experience"
                                     role="tabpanel"
